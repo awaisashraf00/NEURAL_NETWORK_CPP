@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/neural_net.dir/main.cpp.o CMakeFiles/neural_net.dir/neural_networking.cpp.o CMakeFiles/neural_net.dir/neuron.cpp.o -o neural_net
